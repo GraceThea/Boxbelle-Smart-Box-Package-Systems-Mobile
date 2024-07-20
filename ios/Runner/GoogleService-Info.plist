@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544420797081-g67iuna88soer416sl6u2ov3s126smqg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544420797081-g67iuna88soer416sl6u2ov3s126smqg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>544420797081-reh9dhf3is2780dmd8lvctomh3n9b9up.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMEPBFRtSIOv2vGloi4n2Jj5S-F9Hj2f8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544420797081</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.boxbelle</string>
+	<key>PROJECT_ID</key>
+	<string>boxbelle-rv5ssi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boxbelle-rv5ssi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544420797081:ios:a0d910c8b98dc9c931f608</string>
+</dict>
+</plist>

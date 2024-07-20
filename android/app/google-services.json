@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544420797081",
+    "project_id": "boxbelle-rv5ssi",
+    "storage_bucket": "boxbelle-rv5ssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544420797081:android:0aaf6f18ea742bf731f608",
+        "android_client_info": {
+          "package_name": "com.mycompany.boxbelle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544420797081-reh9dhf3is2780dmd8lvctomh3n9b9up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.boxbelle",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "544420797081-cl37fcq2vtfrjj2dvs3h34laj9u3q0fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhu5iyFNDFh16uW9e0nSDbUkI-MHjMEL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544420797081-cl37fcq2vtfrjj2dvs3h34laj9u3q0fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544420797081-g67iuna88soer416sl6u2ov3s126smqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.boxbelle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
